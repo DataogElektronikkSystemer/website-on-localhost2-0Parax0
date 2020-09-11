@@ -5,7 +5,7 @@
        <?Php include 'includes/head.php' ?>
          <link rel="stylesheet" href="stiler/sidebar.css">
 
-      
+
        </head>
     <!---------------------------- <body> tag er den som er synlig i brovse ------------------------------------------------------>
        <body>
@@ -16,21 +16,21 @@
           </nav>
 
       <div class="side">
-          
 
 
-          
+
+
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-  <a href="side2.php">Infrastrutur</a>
+  <a href="side2.php">Infrastrktur</a>
   <a href="side3.php">Norsk</a>
-  <a href="side4.php">Eengelsk</a>
-  <a href="#">Samfunnsfag</a>
+  <a href="side4.php">Engelsk</a>
+  <a href="side5.php">Samfunnsfag</a>
 </div>
 
 <div id="main">
-  <button class="openbtn" onclick="openNav()">☰ fagmeny</button>  
-  
+  <button class="openbtn" onclick="openNav()">☰ fagmeny</button>
+
 </div>
 
 <script>
@@ -49,6 +49,6 @@ function closeNav() {
 
 
           </div>
-                     
+
     </body>
    </html>
